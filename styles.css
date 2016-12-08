@@ -1,0 +1,42 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+
+
+
+
+.container .jumbotron {
+background-color: #252525;
+  
+}
+
+.jumbotron h1{
+  
+padding-left: 0px;
+padding-top: 30px;
+padding-bottom: 0px;
+  text-align: left;
+  text-decoration: underline;
+  font-family: "Serif";
+  font-size: 80px;
+color: #E0E0E0;
+}
+
+h2{
+font-family: "Serif";
+  font-size: 80px;
+color: #E0E0E0;
+}
+
+body{
+ margin: 0;
+ background-image: url('https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif');
+ background-size: 1600px 1000px;
+ background-repeat:no-repeat;
+}
+
+p{
+font-family: "Sans-serif";
+color: #E0E0E0
+
+}
+
